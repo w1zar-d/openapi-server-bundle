@@ -1,5 +1,5 @@
 {
-    "name": "w1zar-d/openapi-server-bundle",
+    "name": "onmoon/openapi-server-bundle",
     "description": "Symfony bundle to create a fully-featured API server from an OpenAPI v3 specification",
     "type": "library",
     "license": "MIT",
